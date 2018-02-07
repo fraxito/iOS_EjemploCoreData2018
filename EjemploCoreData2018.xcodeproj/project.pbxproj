@@ -13,6 +13,7 @@
 		B6028EA1202901E3004E1F35 /* EjemploCoreData2018.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B6028E9F202901E3004E1F35 /* EjemploCoreData2018.xcdatamodeld */; };
 		B6028EA3202901E3004E1F35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6028EA2202901E3004E1F35 /* Assets.xcassets */; };
 		B6028EA6202901E3004E1F35 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6028EA4202901E3004E1F35 /* LaunchScreen.storyboard */; };
+		B6028EAE202902E2004E1F35 /* ListaGatosTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6028EAD202902E2004E1F35 /* ListaGatosTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B6028EA2202901E3004E1F35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6028EA5202901E3004E1F35 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B6028EA7202901E3004E1F35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6028EAD202902E2004E1F35 /* ListaGatosTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListaGatosTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B6028E98202901E3004E1F35 /* AppDelegate.swift */,
 				B6028E9A202901E3004E1F35 /* ViewController.swift */,
 				B6028E9C202901E3004E1F35 /* Main.storyboard */,
+				B6028EAD202902E2004E1F35 /* ListaGatosTableViewController.swift */,
 				B6028EA2202901E3004E1F35 /* Assets.xcassets */,
 				B6028EA4202901E3004E1F35 /* LaunchScreen.storyboard */,
 				B6028EA7202901E3004E1F35 /* Info.plist */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6028EAE202902E2004E1F35 /* ListaGatosTableViewController.swift in Sources */,
 				B6028E9B202901E3004E1F35 /* ViewController.swift in Sources */,
 				B6028EA1202901E3004E1F35 /* EjemploCoreData2018.xcdatamodeld in Sources */,
 				B6028E99202901E3004E1F35 /* AppDelegate.swift in Sources */,
